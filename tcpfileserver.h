@@ -1,8 +1,8 @@
 #ifndef TCPFILESERVER_H
 #define TCPFILESERVER_H
 
-#include <QDialog>
 #include <QtNetwork>
+#include <QDialog>
 #include <QtWidgets>
 
 class TcpFileServer : public QDialog
